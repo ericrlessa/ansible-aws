@@ -1,0 +1,10 @@
+[manager]
+34.228.7.74
+
+[worker]
+52.23.231.25
+54.221.148.204
+
+[all:vars]
+ansible_ssh_private_key_file=/home/ericrlessa/Workspaces/fullcycle/ansible/aws/ansible-aws.pem
+ansible_user=ubuntu

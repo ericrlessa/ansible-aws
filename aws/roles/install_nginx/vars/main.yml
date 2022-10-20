@@ -1,0 +1,4 @@
+---
+# vars file for install_nginx
+hello_fullcycle: "Hello Ansible!!!"
+url_app: "http://localhost:3002"
